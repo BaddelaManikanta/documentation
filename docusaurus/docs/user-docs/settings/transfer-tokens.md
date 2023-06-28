@@ -45,6 +45,7 @@ For security reasons, Transfer tokens are only shown right after they have been 
 :::
 
 ## Regenerating a Transfer token
+how to use Transfer Token
 
 To regenerate an Transfer token:
 
